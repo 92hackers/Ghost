@@ -11,6 +11,9 @@ cache:
   directories:
     - node_modules
 
+notifications:
+  slack: breword:DZiasRoK7EcDXYYWkdB8GxuO
+
 addons:
   apt:
     sources:
