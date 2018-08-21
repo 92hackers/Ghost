@@ -9,6 +9,8 @@ debug('First requires...');
 
 ghost = require('./core');
 
+console.log(ghost)
+
 debug('Required ghost');
 
 express = require('express');
