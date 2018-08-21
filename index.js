@@ -1,4 +1,5 @@
 // # Ghost Startup
+// modified by cy
 // Orchestrates the startup of Ghost when run from command line.
 
 var startTime = Date.now(),
